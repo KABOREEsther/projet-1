@@ -1,0 +1,162 @@
+* {
+    background-color: white;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    background: burlywood;
+}
+
+.tout {
+    font-family: monospace;
+    font-size: 16px;
+}
+
+.info {
+    display: flex;
+    float: right;
+    margin-top: 0%;
+    word-spacing: 20px;
+    margin-right: 10px;
+}
+
+#con {
+    width: 90px;
+    height: 30px;
+    border: 2px solid blue;
+    border-radius: 05px;
+    color: white;
+    background-color: blue;
+    text-decoration: none;
+    margin-left: 25px;
+}
+
+.milieu {
+    margin-bottom: 0px;
+
+}
+
+#img {
+    margin-top: 65px;
+    margin-left: 500px;
+
+}
+
+#rond {
+    width: 300px;
+    height: 35px;
+    background-color: ghostwhite;
+    border-radius: 10px;
+    margin-left: 500px;
+    margin-top: 2px;
+    text-align: center;
+
+}
+
+.ligne {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+#rec {
+    font-size: 12px;
+    margin-left: 510px;
+    background-color: rgb(237, 231, 231);
+}
+
+#cha {
+    font-size: 12px;
+    margin-left: 50px;
+    background-color: rgb(237, 231, 231);
+}
+
+footer {
+    background: rgb(183, 183, 160);
+    position: absolute;
+    bottom: 0%;
+    margin-right: 0%;
+    height: 125px;
+    
+}
+
+.element {
+    display: flex;
+    text-decoration: none;
+    background: rgb(183, 183, 160);
+    margin-bottom: 0%;
+
+}
+
+.gauche {
+    display: flex;
+    color: black;
+    background: rgb(183, 183, 160);
+    margin-bottom: 0%;
+}
+
+a,
+p {
+    background: rgb(183, 183, 160);
+}
+
+#buk {
+    border-bottom: 1px solid rgb(168, 150, 150);
+    background: rgb(183, 183, 160);
+    height: 35px;
+
+}
+
+#pro {
+    margin-left: 0px;
+    text-decoration: none;
+    color: black;
+}
+
+#pub {
+    margin-left: 30px;
+    text-decoration: none;
+    color: black;
+}
+
+#ent {
+    margin-left: 30px;
+    text-decoration: none;
+    color: black;
+}
+
+#go {
+    margin-left: 30px;
+    text-decoration: none;
+    color: black;
+}
+
+.droite {
+    display: flex;
+    margin-left: 410px;
+    text-decoration: none;
+    color: black;
+    background: rgb(183, 183, 160);
+    margin-bottom: 0%;
+}
+
+#cond {
+    margin-left: 15px;
+    text-decoration: none;
+    color: black;
+}
+
+#para {
+    margin-left: 15px;
+    text-decoration: none;
+    color: black;
+    margin-right: 0%   ;
+}
+
+#conf {
+    text-decoration: none;
+    color: black;
+}
